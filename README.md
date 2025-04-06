@@ -1,7 +1,8 @@
 <p align="center">
   <img src="questify_logo.png" alt="Questify Logo" width="200"/>
 </p>
----
+***
+
 # Questify 🛡️🎮
 
 **Questify** est un projet personnel à long terme visant à transformer la productivité en aventure. Grâce à une interface gamifiée et motivante, l’utilisateur devient le héros de sa propre progression. C'est un outil de gamification. 
