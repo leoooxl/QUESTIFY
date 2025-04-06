@@ -1,7 +1,7 @@
 <p align="center">
   <img src="questify_logo.png" alt="Questify Logo" width="200"/>
 </p>
-***
+<hr>
 
 # Questify 🛡️🎮
 
