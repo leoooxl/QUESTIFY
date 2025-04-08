@@ -31,7 +31,9 @@ class My_Window(Tk):
         self.start_button.place(x=370, y=200)
     
     def start_button_click(self):
-        pass
+        self.home_frame.destroy()
+        self.quest_screen()
+
 
 if __name__ == "__main__":
     my_window = My_Window()
